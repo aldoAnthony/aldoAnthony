@@ -23,6 +23,11 @@
   - [Add in Project Name](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Web Development</b>
   - [Add in Project Name](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ 
+<h2>🐍💻🛠️ Python Code Demonstrations:</h2>
+
+- [sort_words_with_x_first](https://github.com/joshmadakor1/Sentinel-Lab)
+
 
 <h2>:scroll: Certifications</h2>
 
