@@ -9,7 +9,7 @@
 - <b>AWS Cloud Platform</b>
   - [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP)
   - [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration)
-  - [Streaming Data Pipeline](https://github.com/joshmadakor1/AD_PS)
+  - [Streaming Data Pipeline](https://github.com/aldoAnthony/Streaming-Data-Pipeline)
   - [Batch Data Pipeline](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Processing Big Data](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Internship Project</b>
