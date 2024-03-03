@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Power Utility Data Analysis Toolkit](https://github.com/aldoAnthony/Power-Utility-Data-Analysis-Toolkit)
 - <b>SQL</b>
-  - [Inventory Normalization Initiative](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Inventory Normalization Initiative](https://github.com/aldoAnthony/Inventory-Normalization-Initiative/edit/main/README.md) 
 - <b>AWS Cloud Platform</b>
   - [Serverless Portfolio with Intelligent NLP](https://github.com/joshmadakor1/Sentinel-Lab)
   - [On-Premise to Cloud Data Migration](https://github.com/joshmadakor1/Jwipe.PowerShell)
