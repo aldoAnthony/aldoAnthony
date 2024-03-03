@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Engineering Certificate Projects:</h2>
 
 - <b>Python</b>
-  - [Power Utility Data Analysis Toolkit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Power Utility Data Analysis Toolkit](https://github.com/aldoAnthony/Power-Utility-Data-Analysis-Toolkit)
 - <b>SQL</b>
   - [Inventory Normalization Initiative](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>AWS Cloud Platform</b>
