@@ -8,7 +8,7 @@
   - [Inventory Normalization Initiative](https://github.com/aldoAnthony/Inventory-Normalization-Initiative) 
 - <b>AWS Cloud Platform</b>
   - [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP)
-  - [On-Premise to Cloud Data Migration](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration)
   - [Streaming Data Pipeline](https://github.com/joshmadakor1/AD_PS)
   - [Batch Data Pipeline](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Processing Big Data](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
