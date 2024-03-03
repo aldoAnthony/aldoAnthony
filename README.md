@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aldo! <br/><a href="https://www.linkedin.com/in/aldo-sauls-as/">Data Engineer</a>, <a href="https://www.linkedin.com/in/aldo-sauls-as/">Programmer</a>, <a href="https://github.com/joshmadakor1">Cloud Engineer</h1>
 
-<h2>👨‍💻 Data Engineering Certificate Projects:</h2>
+<h2>👨‍💻 Data Engineering Projects:</h2>
 
 - <b>Python</b>
   - [Power Utility Data Analysis Toolkit](https://github.com/aldoAnthony/Power-Utility-Data-Analysis-Toolkit)
