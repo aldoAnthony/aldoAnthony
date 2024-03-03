@@ -10,7 +10,7 @@
   - [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP)
   - [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration)
   - [Streaming Data Pipeline](https://github.com/aldoAnthony/Streaming-Data-Pipeline)
-  - [Batch Data Pipeline](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Batch Data Pipeline](https://github.com/aldoAnthony/Batch-Data-Pipeline)
   - [Processing Big Data](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Internship Project</b>
   - [Mobile Signal Strength Optimization](https://github.com/joshmadakor1/EncrypterPOC) 
