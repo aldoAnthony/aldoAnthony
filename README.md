@@ -11,9 +11,9 @@
   - [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration)
   - [Streaming Data Pipeline](https://github.com/aldoAnthony/Streaming-Data-Pipeline)
   - [Batch Data Pipeline](https://github.com/aldoAnthony/Batch-Data-Pipeline)
-  - [Processing Big Data](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Processing Big Data](https://github.com/)
 - <b>Internship Project</b>
-  - [Mobile Signal Strength Optimization](https://github.com/joshmadakor1/EncrypterPOC) 
+  - [Mobile Signal Strength Optimization]() 
  
 <h2>👨‍💻 Freelance Projects:</h2>
 
