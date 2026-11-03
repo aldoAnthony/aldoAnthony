@@ -1,62 +1,36 @@
-<h1>Hi, I'm Aldo! <br/><a href="https://www.linkedin.com/in/aldo-sauls-as/">Data Engineer</a>, <a href="https://www.linkedin.com/in/aldo-sauls-as/">Programmer</a>, <a href="https://github.com/joshmadakor1">Big Data Engineer</h1>
+<h1>Hi, I'm Aldo Anthony 👋</h1>
 
-<h2>👨‍💻 Data Engineering Projects:</h2>
+**Security, cloud and automation.** I build integrations, automated pipelines and AI-assisted tools that take repetitive work off people's plates, and I work in detection engineering and threat hunting on the security side.
 
-- <b>Python</b>
-  - [Power Utility Data Analysis Toolkit](https://github.com/aldoAnthony/Power-Utility-Data-Analysis-Toolkit)
-- <b>SQL</b>
-  - [Inventory Normalization Initiative](https://github.com/aldoAnthony/Inventory-Normalization-Initiative) 
-- <b>AWS Cloud Platform</b>
-  - [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP)
-  - [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration)
-  - [Streaming Data Pipeline](https://github.com/aldoAnthony/Streaming-Data-Pipeline)
-  - [Batch Data Pipeline](https://github.com/aldoAnthony/Batch-Data-Pipeline)
-  - [Processing Big Data](https://github.com/)
-- <b>Internship Project</b>
-  - [Mobile Signal Strength Optimization]() 
- 
-<h2>👨‍💻 Freelance Projects:</h2>
+- 🔗 Connecting SaaS systems through APIs and automating the workflows between them
+- 🤖 Putting AI to work on real business processes: NLP, document handling and drafting
+- ☁️ AWS Certified Cloud Practitioner (2023, recertified 2026)
+- 🛡️ Detection engineering, threat hunting and vulnerability management with Microsoft Sentinel, Defender for Endpoint and Tenable
+- 🗣️ Over a decade of technical support and client training, so I can explain the tech in plain terms
 
-- <b>Data Engineering/Science/Analytics</b>
-  - [Add in Project Name](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Python Programming</b>
-  - [Add in Project Name](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Web Development</b>
-  - [Add in Project Name](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
- 
-<h2>🐍💻🛠️ Python Code Demonstrations:</h2>
+<h2>🛡️ Cybersecurity Projects</h2>
 
-- [sort_words_with_x_first](https://github.com/joshmadakor1/Sentinel-Lab)
+<!-- Placeholder: add cybersecurity project links here as they go live -->
+*Coming soon: detection engineering, threat hunting, vulnerability management and SOAR automation projects.*
 
+<h2>⚙️ Data Engineering & Automation Projects</h2>
 
-<h2>:scroll: Certifications</h2>
+| Project | What it does | Stack |
+|---|---|---|
+| [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP) | Captures web enquiries, analyses them with NLP and sends an automated, context-aware email reply | Lambda, API Gateway, Comprehend, SES, DynamoDB, Amplify |
+| [Batch Data Pipeline](https://github.com/aldoAnthony/Batch-Data-Pipeline) | Event-driven ETL pipeline that loads raw CSV data into PostgreSQL, with success and failure alerts | Airflow, Docker, S3, Lambda, RDS, SNS |
+| [Processing Big Data](https://github.com/aldoAnthony/Processing-Big-Data) | Ingests and profiles large datasets, fixes data quality issues and automates quality checks | PySpark, Parquet, PyDeequ |
+| [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration) | Infrastructure-as-code migration of on-premise data to the cloud, with transfer monitoring | CloudFormation, Storage Gateway, S3, CloudWatch |
+| [Streaming Data Pipeline](https://github.com/aldoAnthony/Streaming-Data-Pipeline) | Real-time pipeline for sensor data, with automated failure alerting | Lambda, DynamoDB, Kinesis Firehose, SQS, S3 |
 
-- [Data Engineering Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AWS Certified Cloud Practitioner Certificate](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+<h2>🧰 Tools & Technologies</h2>
 
-<h2> 🌐 Connect with me:</h2>
+**Security:** Microsoft Sentinel · Defender for Endpoint · Tenable · KQL
+**Cloud:** AWS · Microsoft Azure
+**Automation & Data:** Python · SQL · Apache Airflow · PySpark · PostgreSQL · Docker · Bash
+**AI:** Claude · ChatGPT · GitHub Copilot · Amazon Comprehend
+**Web:** React · JavaScript · Supabase · Postmark
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>🌐 Connect</h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/aldoanthony) · [Email](mailto:liaise.aldo@gmail.com)
