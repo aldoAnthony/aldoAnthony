@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aldo Anthony 👋</h1>
 
-**Cybersecurity analyst with a data engineering background.** I'm completing a cybersecurity internship with LOG(N) Pacific, working hands-on with Microsoft Defender for Endpoint, Microsoft Sentinel, KQL and Tenable. My data engineering work means I understand how data moves through systems, and now I focus on how to protect it.
+**Cybersecurity intern with over ten years in hands-on technical roles and training in data engineering.** I'm completing a cybersecurity internship with LOG(N) Pacific, working hands-on with Microsoft Defender for Endpoint, Microsoft Sentinel, KQL and Tenable. My data engineering training taught me how data moves through systems, and now I'm focused on how to protect it.
 
 - 🛡️ Endpoint security, threat hunting, incident response and vulnerability management
 - 🔐 Growing focus on data security: protecting sensitive data, monitoring for exfiltration and data loss prevention
