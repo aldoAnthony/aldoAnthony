@@ -1,35 +1,41 @@
 <h1>Hi, I'm Aldo Anthony 👋</h1>
 
-**Security, cloud and automation.** I build integrations, automated pipelines and AI-assisted tools that take repetitive work off people's plates, and I work in detection engineering and threat hunting on the security side.
+**Cybersecurity analyst with a data engineering background.** I'm completing a cybersecurity internship with LOG(N) Pacific, working hands-on with Microsoft Defender for Endpoint, Microsoft Sentinel, KQL and Tenable. My data engineering work means I understand how data moves through systems, and now I focus on how to protect it.
 
-- 🔗 Connecting SaaS systems through APIs and automating the workflows between them
-- 🤖 Putting AI to work on real business processes: NLP, document handling and drafting
-- ☁️ AWS Certified Cloud Practitioner (2023, recertified 2026)
-- 🛡️ Detection engineering, threat hunting and vulnerability management with Microsoft Sentinel, Defender for Endpoint and Tenable
-- 🗣️ Over a decade of technical support and client training, so I can explain the tech in plain terms
+- 🛡️ Endpoint security, threat hunting, incident response and vulnerability management
+- 🔐 Growing focus on data security: protecting sensitive data, monitoring for exfiltration and data loss prevention
+- 📊 Data extraction, validation and quality testing with Python, SQL and PySpark
+- ☁️ AWS Certified Cloud Practitioner (2023, recertified 2026) and hands-on with Microsoft Azure
+- 🗣️ Over a decade in hands-on technical roles, including IT support and client training, so I can explain the tech in plain terms
+
+Based in Cape Town, South Africa.
 
 <h2>🛡️ Cybersecurity Projects</h2>
 
-<!-- Placeholder: add cybersecurity project links here as they go live -->
-*Coming soon: detection engineering, threat hunting, vulnerability management and SOAR automation projects.*
+Hands-on labs from my LOG(N) Pacific internship (2026), being documented and published now:
+
+| Project | What it covers | Stack | Status |
+|---|---|---|---|
+| Incident Response: Honeypot Breach | Built and logged a MySQL honeypot, wrote detections, then detected, contained and reported a live breach | Microsoft Sentinel, Defender for Endpoint, KQL, Azure | 🚧 In progress |
+| Vulnerability Management Programme | Policy, authenticated scanning, CVSS prioritisation, scripted remediation and rescans | Tenable, PowerShell, Azure | 🚧 In progress |
+| Threat Hunting Reports | Multi-stage hunts across endpoint and cloud telemetry, mapped to MITRE ATT&CK | KQL, Microsoft Sentinel, Defender for Endpoint | 🚧 In progress |
 
 <h2>⚙️ Data Engineering & Automation Projects</h2>
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP) | Captures web enquiries, analyses them with NLP and sends an automated, context-aware email reply | Lambda, API Gateway, Comprehend, SES, DynamoDB, Amplify |
-| [Batch Data Pipeline](https://github.com/aldoAnthony/Batch-Data-Pipeline) | Event-driven ETL pipeline that loads raw CSV data into PostgreSQL, with success and failure alerts | Airflow, Docker, S3, Lambda, RDS, SNS |
 | [Processing Big Data](https://github.com/aldoAnthony/Processing-Big-Data) | Ingests and profiles large datasets, fixes data quality issues and automates quality checks | PySpark, Parquet, PyDeequ |
+| [Batch Data Pipeline](https://github.com/aldoAnthony/Batch-Data-Pipeline) | Event-driven ETL pipeline that loads raw CSV data into PostgreSQL, with success and failure alerts | Airflow, Docker, S3, Lambda, RDS, SNS |
+| [Serverless Portfolio with Intelligent NLP](https://github.com/aldoAnthony/Serverless-Portfolio-with-Intelligent-NLP) | Captures web enquiries, analyses them with NLP and sends an automated, context-aware email reply | Lambda, API Gateway, Comprehend, SES, DynamoDB, Amplify |
 | [On-Premise to Cloud Data Migration](https://github.com/aldoAnthony/On-Premise-to-Cloud-Data-Migration) | Infrastructure-as-code migration of on-premise data to the cloud, with transfer monitoring | CloudFormation, Storage Gateway, S3, CloudWatch |
 | [Streaming Data Pipeline](https://github.com/aldoAnthony/Streaming-Data-Pipeline) | Real-time pipeline for sensor data, with automated failure alerting | Lambda, DynamoDB, Kinesis Firehose, SQS, S3 |
 
 <h2>🧰 Tools & Technologies</h2>
 
-**Security:** Microsoft Sentinel · Defender for Endpoint · Tenable · KQL
-**Cloud:** AWS · Microsoft Azure
-**Automation & Data:** Python · SQL · Apache Airflow · PySpark · PostgreSQL · Docker · Bash
-**AI:** Claude · ChatGPT · GitHub Copilot · Amazon Comprehend
-**Web:** React · JavaScript · Supabase · Postmark
+**Security:** Microsoft Defender for Endpoint · Microsoft Sentinel · KQL · Tenable · MITRE ATT&CK · NIST CSF · NIST 800-61
+**Cloud:** Microsoft Azure · AWS
+**Endpoint & IT:** Windows administration · PowerShell · Bash · Linux · Networking
+**Data:** Python · SQL · PySpark · Pandas · Apache Airflow · PostgreSQL · Docker
 
 <h2>🌐 Connect</h2>
 
