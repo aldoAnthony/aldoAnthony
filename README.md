@@ -20,7 +20,7 @@ Hands-on labs from my LOG(N) Pacific internship (2026):
 | [Programmatic Vulnerability Remediations (PowerShell)](https://github.com/aldoAnthony/programmatic-vulnerability-remediations) | PowerShell fixes for the vulnerabilities found in the vulnerability management programme, verified with Tenable rescans | PowerShell, Tenable, Azure | ✅ Live |
 | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/-threat-hunting-scenario-tor) | Hunted for unauthorised Tor Browser use on an endpoint, built the timeline and mapped it to MITRE ATT&CK | KQL, Defender for Endpoint | ✅ Live |
 | [Windows 11 STIG Remediations](https://github.com/aldoAnthony/windows-11-stig-remediations) | Ten failed DISA STIG checks (five CAT I) remediated with PowerShell and verified with Tenable rescans | PowerShell, Tenable, Azure | ✅ Live |
-| [PHP2Shell: The Hartwell Breach](https://github.com/aldoAnthony/threat-hunt-php2shell-hartwell-breach) 🥇 | Community threat hunt where I placed first, investigating the breach end to end with a full report | KQL, Microsoft Sentinel, Defender for Endpoint | ✅ Live |
+| [PHP2Shell: The Hartwell Breach](https://github.com/aldoAnthony/threat-hunt-php2shell-hartwell-breach) 🥇 | Community threat hunt where I placed first: webshell, credential theft and persistence on a WordPress server, reconstructed from seven log sources | KQL, Microsoft Sentinel, Sysmon for Linux, auditd | ✅ Live |
 
 <h2>🎓 Cybersecurity Internship Portfolio</h2>
 
