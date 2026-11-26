@@ -12,9 +12,14 @@ Based in Cape Town, South Africa.
 
 <h2>🛡️ Cybersecurity Projects</h2>
 
-| Project | What it covers | Stack |
-|---|---|---|
-| [Cybersecurity Internship Portfolio](https://github.com/aldoAnthony/Cyber-Security-Internship-Portfolio) | Hands-on labs from my LOG(N) Pacific internship (2026): vulnerability management, scripted remediations, threat hunting and incident response | Microsoft Sentinel, Defender for Endpoint, KQL, Tenable, PowerShell, Azure |
+Hands-on labs from my LOG(N) Pacific internship (2026), being documented and published now:
+
+| Project | What it covers | Stack | Status |
+|---|---|---|---|
+| Incident Response: Honeypot Breach | Built and logged a MySQL honeypot, wrote detections, then detected, contained and reported a live breach | Microsoft Sentinel, Defender for Endpoint, KQL, Azure | 🚧 In progress |
+| Vulnerability Management Programme | Policy, authenticated scanning, CVSS prioritisation, scripted remediation and rescans | Tenable, PowerShell, Azure | 🚧 In progress |
+| Threat Hunting Reports | Multi-stage hunts across endpoint and cloud telemetry, mapped to MITRE ATT&CK | KQL, Microsoft Sentinel, Defender for Endpoint | 🚧 In progress |
+| [Cybersecurity Internship Portfolio](https://github.com/aldoAnthony/Cyber-Security-Internship-Portfolio) | Index of my internship projects: vulnerability management, scripted remediations, threat hunting and incident response | Microsoft Sentinel, Defender for Endpoint, KQL, Tenable, PowerShell, Azure | ✅ Live |
 
 <h2>⚙️ Data Engineering & Automation Projects</h2>
 
