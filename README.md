@@ -12,17 +12,17 @@ Based in Cape Town, South Africa.
 
 <h2>🛡️ Cybersecurity Projects</h2>
 
-Hands-on labs from my LOG(N) Pacific internship (2026), being documented and published now:
+Hands-on labs from my LOG(N) Pacific internship (2026):
 
 | Project | What it covers | Stack | Status |
 |---|---|---|---|
-| Incident Response: Honeypot Breach | Built and logged a MySQL honeypot, wrote detections, then detected, contained and reported a live breach | Microsoft Sentinel, Defender for Endpoint, KQL, Azure | 🚧 In progress |
-| Vulnerability Management Programme | Policy, authenticated scanning, CVSS prioritisation, scripted remediation and rescans | Tenable, PowerShell, Azure | 🚧 In progress |
-| Threat Hunting Reports | Multi-stage hunts across endpoint and cloud telemetry, mapped to MITRE ATT&CK | KQL, Microsoft Sentinel, Defender for Endpoint | 🚧 In progress |
+| [Vulnerability Management Programme Implementation](https://github.com/aldoAnthony/vulnerability-management-program) | Policy, authenticated scanning, CVSS prioritisation, remediation and rescans to verify | Tenable, Azure | ✅ Live |
+| [Programmatic Vulnerability Remediations (PowerShell)](https://github.com/aldoAnthony/programmatic-vulnerability-remediations) | Scripted fixes for vulnerabilities and failed DISA STIG checks, verified with Tenable rescans | PowerShell, Tenable, Azure | ✅ Live |
+| [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/-threat-hunting-scenario-tor) | Hunted for unauthorised Tor Browser use on an endpoint, built the timeline and mapped it to MITRE ATT&CK | KQL, Defender for Endpoint | ✅ Live |
 
 <h2>🎓 Cybersecurity Internship Portfolio</h2>
 
-My full write-ups from the LOG(N) Pacific internship (2026), covering vulnerability management, scripted remediations, threat hunting and incident response.
+My full write-ups from the LOG(N) Pacific internship (2026), covering vulnerability management, scripted remediations and threat hunting.
 
 **[View the Cybersecurity Internship Portfolio →](https://github.com/aldoAnthony/Cyber-Security-Internship-Portfolio)**
 
